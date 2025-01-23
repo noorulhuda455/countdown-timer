@@ -1,2 +1,2 @@
-# countdown-timer
+# Countdown-Timer
 This Python program is a countdown timer that takes user input for the countdown duration in seconds. It displays the remaining time with a progress bar that updates every second. The screen is cleared for a refreshed display, and when the timer ends, it notifies the user with a "Time’s up!" message and optionally plays a beep sound. The program includes error handling for invalid or negative inputs, ensuring a smooth user experience.
